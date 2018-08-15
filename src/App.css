@@ -1,0 +1,70 @@
+.App {
+  color: white;
+  /* background-image: url(./assets/1361491.jpg);
+  background-repeat: no-repeat;
+  -webkit-background-size: 100% 14.8%; */
+  /* -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; */
+  /* 
+  background-image: linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0.3) 0%,
+      rgba(255, 255, 255, 0.3) 100%
+    ),
+    url(./assets/back3.png);
+  background-repeat: no-repeat; */
+  /* background: linear-gradient(to right, rgb(136, 238, 245), white); */
+  /* background: linear-gradient(
+    0deg,
+    #85ee89,
+    #668afb,
+    #e4fb66,
+    #f9be79,
+    #f979ef
+  );
+  background-size: 1000% 1000%;
+
+  -webkit-animation: wave 48s ease infinite;
+  -moz-animation: wave 48s ease infinite;
+  animation: wave 48s ease infinite; */
+}
+
+/* @-webkit-keyframes wave {
+  0% {
+    background-position: 50% 0%;
+  }
+  50% {
+    background-position: 51% 100%;
+  }
+  100% {
+    background-position: 50% 0%;
+  }
+}
+@-moz-keyframes wave {
+  0% {
+    background-position: 50% 0%;
+  }
+  50% {
+    background-position: 51% 100%;
+  }
+  100% {
+    background-position: 50% 0%;
+  }
+}
+@keyframes wave {
+  0% {
+    background-position: 50% 0%;
+  }
+  50% {
+    background-position: 51% 100%;
+  }
+  100% {
+    background-position: 50% 0%;
+  }
+} */
+.Arrows {
+  position: absolute;
+  z-index: 15;
+  top: 1vw;
+}
